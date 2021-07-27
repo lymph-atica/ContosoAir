@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/Lymphatica/MyNewProject2021/_apis/build/status/lymph-atica.ContosoAir?branchName=master)](https://dev.azure.com/Lymphatica/MyNewProject2021/_build/latest?definitionId=1&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
